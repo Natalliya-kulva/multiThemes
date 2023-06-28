@@ -1146,6 +1146,10 @@ video {
   color: var(--color-primary-600);
 }
 
+.text-primary-800 {
+  color: var(--color-primary-800);
+}
+
 .text-purple-700 {
   --tw-text-opacity: 1;
   color: rgb(126 34 206 / var(--tw-text-opacity));
@@ -1164,6 +1168,10 @@ video {
 .text-yellow-800 {
   --tw-text-opacity: 1;
   color: rgb(133 77 14 / var(--tw-text-opacity));
+}
+
+.text-primary-900 {
+  color: var(--color-primary-900);
 }
 
 .shadow-sm {
